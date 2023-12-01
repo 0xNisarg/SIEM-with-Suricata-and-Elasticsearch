@@ -1,5 +1,7 @@
 # SIEM WITH SURICATA AND ELK STACK
 
+## SETTING UP THE SURICATA ON UBUNTU SERVER 
+
 ## Step 1 — Installing Suricata
 Run the following command to add the repository to your system and update the list of available packages:
 ```bash
