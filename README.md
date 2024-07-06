@@ -1,5 +1,8 @@
 # SIEM With Suricata and Elasticsearch
 
+![elk & suricata](https://raw.githubusercontent.com/0xNisarg/0xNisarg/main/suricata%26elk.jpg)
+
+
 This project is a Security Information and Event Management (SIEM) system built with Suricata and Elasticsearch. It leverages Suricata for network intrusion detection and Elasticsearch for storing and analyzing security events.
 
 ## Description
